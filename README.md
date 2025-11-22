@@ -2,7 +2,7 @@
 
 This project delivers a comprehensive, multi-page Power BI analytics dashboard built from *The College Quest in Fabricland Dataset*, a structured workbook containing two interconnected tables: **College_Profiles** and **Programs_Majors**. The goal of the dashboard is to help students, academic planners, and institutional leaders understand college performance, program quality, student life factors, and long-term outcomes within the Fabricland educational system.
 
-<img width="1433" height="808" alt="image" src="https://github.com/user-attachments/assets/a1e9ec3e-3c63-42dc-9fbd-9eb597fffeda" />
+<img width="1432" height="805" alt="image" src="https://github.com/user-attachments/assets/a79a8e1e-13bd-48ee-99dc-54398b54b710" />
 <img width="1437" height="807" alt="image" src="https://github.com/user-attachments/assets/a6fdada2-2c41-4f1e-a6f7-aaf497e805a7" />
 <img width="1437" height="806" alt="image" src="https://github.com/user-attachments/assets/57871e36-c073-4b91-8304-f67d83643008" />
 
